@@ -1,1 +1,6 @@
-# Konkuk_University_ClassProject_Image_Transform
+## Konkuk_University_ClassProject_Image_Transform
+
+대학교 선형대수학시간에 진행한 프로젝트입니다. 선형대수학에서 여러 행렬들과 이 행렬들의 성질, 변환등을 배웠습니다.
+이렇게 배운것들을 기반으로 실제 프로그램에선 어떻게 동작되는지를 확인하기 위해 이미지 변환 프로젝트를 진행하였습니다.
+
+
