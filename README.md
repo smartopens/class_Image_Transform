@@ -1,20 +1,18 @@
-## Image_Transform_by_HarrWavelet
+## Image_transform_with_HarrWavelet
 
-선형대수학 수업에 진행한 프로젝트
-(행렬들의 성질과 변환을 이용한 이미지 압축)  
+HarrWavelet 기반의 이미지 압축 
 
 ### 진행 기간
 2020-10-01 ~ 2020-10-14
 
 
-### 프로젝트
+### 개요
 
 이미지는 많은 양의 Data들을 포함하고 있습니다. 이를 원본 그대로 사용하려면 많은 비용을 소모합니다.  
 그래서 Image Compression을 많이 진행하곤 합니다.   
-이와 관련해 Haar Wavelet Transform기반의 이미지 데이터를 압축, 변화를 분석하는 프로젝트입니다.    
+이와 관련해 Haar Wavelet Transform기반의 이미지 데이터를 압축, 변화를 분석합니다.    
 
-
-### 프로젝트 구성
+### 구성
 
 - Image Compression 진행시 K값을 조절해가면서 압축률을 조정해본다. (B = Ht@A@H 에서 B의 Subsquare matrix크기 k)
 
@@ -23,7 +21,6 @@
 - 이미지에서 low-frequency 영역, High-frequency 영역별 추출 확인
 
 - low-frequency 추출을 계속 진행
-
 
 ### View
 
